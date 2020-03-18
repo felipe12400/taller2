@@ -1,0 +1,40 @@
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\bin\Debug\Ayudantia.exe.config
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\bin\Debug\Ayudantia.exe
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\bin\Debug\Ayudantia.pdb
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\bin\Debug\Google.Protobuf.dll
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\bin\Debug\MySql.Data.dll
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\bin\Debug\Renci.SshNet.dll
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\bin\Debug\Google.Protobuf.xml
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\bin\Debug\MySql.Data.xml
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\bin\Debug\Renci.SshNet.xml
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\obj\Debug\Ayudantia.csprojAssemblyReference.cache
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\obj\Debug\Ayudantia.Form1.resources
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\obj\Debug\Ayudantia.Properties.Resources.resources
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\obj\Debug\Ayudantia.csproj.GenerateResource.cache
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\obj\Debug\Ayudantia.csproj.CoreCompileInputs.cache
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\obj\Debug\Ayudantia.csproj.CopyComplete
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\obj\Debug\Ayudantia.exe
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\obj\Debug\Ayudantia.pdb
+C:\Users\PICTOLOMI\source\repos\Ayudantia\Ayudantia\obj\Debug\Ayudantia.Ventana2.resources
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\bin\Debug\Ayudantia.exe.config
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\bin\Debug\Ayudantia.exe
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\bin\Debug\Ayudantia.pdb
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\bin\Debug\Google.Protobuf.dll
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\bin\Debug\MySql.Data.dll
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\bin\Debug\Renci.SshNet.dll
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\bin\Debug\Google.Protobuf.xml
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\bin\Debug\MySql.Data.xml
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\bin\Debug\Renci.SshNet.xml
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\obj\Debug\Ayudantia.csprojAssemblyReference.cache
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\obj\Debug\Ayudantia.Form1.resources
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\obj\Debug\Ayudantia.Properties.Resources.resources
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\obj\Debug\Ayudantia.Ventana2.resources
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\obj\Debug\Ayudantia.csproj.GenerateResource.cache
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\obj\Debug\Ayudantia.csproj.CopyComplete
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\obj\Debug\Ayudantia.exe
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\obj\Debug\Ayudantia.pdb
+C:\Users\FeliZ\3D Objects\TODO\Como_empezar\Ayudantia\Ayudantia\obj\Debug\Ayudantia.pantalla2.resources
